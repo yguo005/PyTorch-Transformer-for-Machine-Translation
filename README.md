@@ -3,7 +3,6 @@
 
 This project is a complete implementation of the Transformer architecture from the seminal paper _"Attention Is All You Need"_ by Vaswani et al. The model is built from scratch using PyTorch and is trained on the Multi30k dataset for a German-to-English machine translation task.
 
-The implementation is based on the Harvard NLP group's annotated guide and was completed for the "PA2: The Transformer Architecture" assignment in the DS 5983 course.
 
 The project not only builds and trains the model but also includes a systematic framework for hyperparameter experimentation and analysis, allowing for the comparison of different model configurations.
 
