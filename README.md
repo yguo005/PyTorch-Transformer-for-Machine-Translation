@@ -1,1 +1,1 @@
-# PyTorch-Transformer-for-Machine-Translation
+# PyTorch Transformer for Machine Translation
